@@ -8,6 +8,6 @@ int main() {
     int radius = 5 ;
     float area = AREA(radius);
     printf("Area: %f" , area);
-    return 0;
+    return 0; 
 }
 // Macros are generally faster in execution than the functions.
