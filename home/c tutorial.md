@@ -10,7 +10,7 @@ Here are some of the important reasons why should we learn C programming -
 - you can use program to write efficient codes and develop robust projects.
 - C is a low - level langauage and you can use it to interact more directly with the computer's hardware and memory.
 
-Facr about C :
+Fact about C :
 
 - C is the most widely used and popular system programming language. Most of the state - of - the - art software have been implemented using C .
 
