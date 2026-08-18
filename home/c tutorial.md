@@ -32,7 +32,7 @@ C was initially ised for system development work, particularly the programs that
  - Language Interpreters
  - Utilities
 
- Audience of this tutorial:
+ Audience of this tutorial :
  
  This tutorial is designed for software programmers with a need to understand the C Programming langauage starting form scratch. This C tutorial will give you enogh understing on C programming langauge from where you can take yourself to higher level of expertise.
 
