@@ -20,3 +20,24 @@ Fact about C :
 
 - The langauge was formalized in 1988 by the american national standard institute (ANSI).
 
+Applications of C prorgamming : 
+
+C was initially ised for system development work, particularly the programs that make - up operating system. C. Was adopted as a system development langauge becouse it produces code that runs nearly as fats as the code eriteen in assembly lanaguage. Some examples of the use of C are -
+ - Operating systems
+ - Langauges Compilers Assemblers 
+ - Text Editors 
+ - Print Spoolers
+ - Modern Programs
+ - Databases 
+ - Language Interpreters
+ - Utilities
+
+ Audience :
+ 
+ This tutorial is designed for software programmers with a need to understand the C Programming langauage starting form scratch. This C tutorial will give you enogh understing on C programming langauge from where you can take yourself to higher level of expertise.
+
+ Prerequisites :
+
+ Before proceding with this tutorial, you should have a basic understanding of cumputer programming terminologies. A basic understanding of the programming langauge will help you in understanding the C programming concepts and move fast on the learning track.
+
+ 
