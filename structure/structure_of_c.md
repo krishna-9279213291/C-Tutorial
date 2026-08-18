@@ -16,3 +16,16 @@ There are other preprocessor directives such as #define which is used to define 
 The following statement defines a constant PI- 
 
         #define PI 3.14159
+
+The main() Function 
+
+A C program is a collection of one or more functions. there are two types of functions in a C prgram: library functions and user - defined functions. 
+
+There must be at least one user-defined function in a C program, whose name must be main(). The main() function serves as the entry point of the program. when the program is run, the compiler looks for the main() function. 
+
+The main() function contains one or more statemenets . By defualt , each statement must end with a semicolon. The statement may include variable declartions, decicion control or loop constructs or call to a library or another user - defined fucnton. 
+
+In C , a function must have a data type. The data type of return value must match with the data type of the function. By default , a function in C is of int type. Hence, if a function doesnt have a return statement , its type is int, and may omit it in the function definition , but the compiler issues a warning - 
+
+warning : return type defualts to 'int' 
+
