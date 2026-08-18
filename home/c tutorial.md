@@ -12,11 +12,11 @@ Here are some of the important reasons why should we learn C programming -
 
 Facr about C :
 
-C is the most widely used and popular system programming language. Most of the state - of - the - art software have been implemented using C .
+- C is the most widely used and popular system programming language. Most of the state - of - the - art software have been implemented using C .
 
-C was invented to write an operatig system called UNIX. The UNIX OS was totally writeen in C.
+- C was invented to write an operatig system called UNIX. The UNIX OS was totally writeen in C.
 
-C is a successor of B language which was introduced around the early 1970s. 
+- C is a successor of B language which was introduced around the early 1970s. 
 
-The langauge was formalized in 1988 by the american national standard institute (ANSI).
+- The langauge was formalized in 1988 by the american national standard institute (ANSI).
 
