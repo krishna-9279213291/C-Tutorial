@@ -1,4 +1,5 @@
-Getting Started with C Programming
+Getting Started with C Programming : 
+
 To learn C effectively, we need to understand its structure first. Every programming language has its programming structure. A typical structure of a C program includes several parts. The following steps show the C structure of a regular C program−
 
 Include Header Files
@@ -31,7 +32,8 @@ limits.h − Defines various implementation-specific limits on integer types.
 Macros and Constants
 Define any macros or constants that will be used throughout the program. Macros and constants are optional.
 
-Example
+Example :
+
 #include <stdio.h>
 #define PI 3.14159
 int main() {
@@ -41,9 +43,11 @@ int main() {
    printf("Area of the circle: %f\n", area);
    return 0;
 }
-Output
+Output : 
 Area of the circle: 78.539749
-Global Declarations in C
+
+Global Declarations in C : 
+
 Global declarations are optional:
 
 int globalVariable;
